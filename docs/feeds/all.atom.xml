@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>PyCon Israel 2024</title><link href="https://pycon.org.il/2024/" rel="alternate"></link><link href="https://pycon.org.il/2024/feeds/all.atom.xml" rel="self"></link><id>https://pycon.org.il/2024/</id><updated>2024-07-21T22:45:00+03:00</updated><subtitle>PyCon Israel is a conference dedicated to the Python programming language, related technologies, and their use.</subtitle><entry><title>PyCon Israel 2024 Agenda Published</title><link href="https://pycon.org.il/2024/agenda-published.html" rel="alternate"></link><published>2024-07-21T22:45:00+03:00</published><updated>2024-07-21T22:45:00+03:00</updated><author><name>PyCon Israel Team</name></author><id>tag:pycon.org.il,2024-07-21:/2024/agenda-published.html</id><summary type="html">&lt;p&gt;The PyCon Israel 2024 agenda is out&lt;/p&gt;</summary><content type="html">&lt;p&gt;PyCon Israel is proud to present the agenda for the 2024 conference.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyCon Israel 2024</title><link href="https://pycon.org.il/2024/" rel="alternate"></link><link href="https://pycon.org.il/2024/feeds/all.atom.xml" rel="self"></link><id>https://pycon.org.il/2024/</id><updated>2024-07-25T12:30:00+03:00</updated><subtitle>PyCon Israel is a conference dedicated to the Python programming language, related technologies, and their use.</subtitle><entry><title>PyCon Israel 2024 Tickets Available</title><link href="https://pycon.org.il/2024/tickets-available.html" rel="alternate"></link><published>2024-07-25T12:30:00+03:00</published><updated>2024-07-25T12:30:00+03:00</updated><author><name>PyCon Israel Team</name></author><id>tag:pycon.org.il,2024-07-25:/2024/tickets-available.html</id><summary type="html">&lt;p&gt;PyCon Israel 2024 tickets are available to buy&lt;/p&gt;</summary><content type="html">&lt;p&gt;PyCon Israel is happy to announce that ticket sales are now open, but
+before you go there, a few words of explanation.&lt;/p&gt;
+&lt;p&gt;We have always strived to keep PyCon Israel ticket prices low, to make
+it accessible to a wide audience. In all of the past years, the ticket
+price was far below the conference costs per attendee (PyCon Israel is
+run by volunteers, and was never intended to make a profit). But most
+of the tickets ended up purchased by companies for their employees,
+which meant that the conference was subsidizing these companies (with
+volunteer work and sponsor money). This never seemed right to us.&lt;/p&gt;
+&lt;p&gt;We’ve tried to make cheaper tickets available by request, but that
+didn’t work – nobody asked for them until the “regular” tickets were
+out.&lt;/p&gt;
+&lt;p&gt;So this year, we’re trying a different way. We have tickets for
+employees, at a price that reflects actual costs to the conference,
+and tickets for individuals, at a more accessible price point. We hope
+this is not abused, so we can keep the lower price available for
+individuals.&lt;/p&gt;
+&lt;p&gt;One more point – as usual, the workshops are on a separate day, at a
+different place; workshop tickets are not valid for the conference
+talks day, and vice versa.&lt;/p&gt;
+&lt;p&gt;Now, go &lt;a href="https://ti.to/hamakor/pycon2024"&gt;grab your tickets&lt;/a&gt;!&lt;/p&gt;</content><category term="announcements"></category></entry><entry><title>כרטיסים לפייקון ישראל 2024</title><link href="https://pycon.org.il/2024/he/tickets-available.html" rel="alternate"></link><published>2024-07-25T12:30:00+03:00</published><updated>2024-07-25T12:30:00+03:00</updated><author><name>PyCon Israel Team</name></author><id>tag:pycon.org.il,2024-07-25:/2024/he/tickets-available.html</id><summary type="html">&lt;p&gt;אפשר עכשיו לקנות כרטיסים לכנס פייקון ישראל 2024&lt;/p&gt;</summary><content type="html">&lt;p&gt;צוות פייקון ישראל שמח להכריז על פתיחת מכירת הכרטיסים לכנס. אבל לפני
+שנשלח אתכם/ן לקנות אותם, כמה מילות הסבר.&lt;/p&gt;
+&lt;p&gt;תמיד הצבנו לעצמנו למטרה לשמור את מחירי הכרטיסים לפייקון ישראל נמוכים,
+כדי שהכנס יהיה נגיש לקהל רחב ככל האפשר. בכל השנים הקודמות, מחיר הכרטיס
+היה הרבה מתחת לעלות של הכנס לאורח/ת בודד/ת (פייקון ישראל מופעל ע״י
+מתנדבות ומתנדבים, ומעולם לא נועד להשיא רווחים). אבל רוב הכרטיסים נרכשו
+ע״י חברות עבור העובדים/ות, וכך למעשה הכנס סיבסד את אותן חברות
+(באמצעות עבודה התנדבותית וכסף מחסויות). זה מעולם לא נראה לנו תקין.&lt;/p&gt;
+&lt;p&gt;ניסינו להעמיד כרטיסים זולים יותר על בסיס פניה פרטית, אבל זה לא עבד -
+הפניות התחילו להגיע רק לאחר שהכרטיסים „הרגילים” אזלו.&lt;/p&gt;
+&lt;p&gt;השנה, החלטנו לנסות דרך אחרת. אפשר לקנות כרטיסים לעובדים/ות, במחיר
+שמשקף, פחות או יותר, את העלויות של הכנס; וכרטיסים לפרטים, במחיר נגיש
+יותר. אנחנו בתקווה שזה לא ינוצל לרעה, כדי שנוכל להמשיך להציע את המחיר
+הנמוך יותר לפייתוניסטים/ות עצמאיים/ות.&lt;/p&gt;
+&lt;p&gt;עוד נקודה אחת - כרגיל, הסדנאות הן ביום נפרד, ובמקום אחר; כרטיסים
+לסדנאות אינם תקפים ליום ההרצאות, ולהיפך.&lt;/p&gt;
+&lt;p&gt;זהו. יאללה, לכו &lt;a href="https://ti.to/hamakor/pycon2024"&gt;לקנות כרטיסים&lt;/a&gt;!&lt;/p&gt;</content><category term="announcements"></category></entry><entry><title>PyCon Israel 2024 Agenda Published</title><link href="https://pycon.org.il/2024/agenda-published.html" rel="alternate"></link><published>2024-07-21T22:45:00+03:00</published><updated>2024-07-21T22:45:00+03:00</updated><author><name>PyCon Israel Team</name></author><id>tag:pycon.org.il,2024-07-21:/2024/agenda-published.html</id><summary type="html">&lt;p&gt;The PyCon Israel 2024 agenda is out&lt;/p&gt;</summary><content type="html">&lt;p&gt;PyCon Israel is proud to present the agenda for the 2024 conference.
 This agenda is the result of long hours of work -- by the submitters
 of proposals which were chosen, and proposals which weren't;
 by &lt;a href="https://pycon.org.il/2024/meet-pyconil-reviewers.html"&gt;reviewers&lt;/a&gt;,
