@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyCon Israel 2024 - sponsors</title><link href="https://pycon.org.il/2024/" rel="alternate"></link><link href="https://pycon.org.il/2024/feeds/sponsors.atom.xml" rel="self"></link><id>https://pycon.org.il/2024/</id><updated>2024-10-20T00:00:00+03:00</updated><subtitle>PyCon Israel is a conference dedicated to the Python programming language, related technologies, and their use.</subtitle><entry><title>Starkware's coding riddle</title><link href="https://pycon.org.il/2024/starkware-coding-riddle.html" rel="alternate"></link><published>2024-10-20T00:00:00+03:00</published><updated>2024-10-20T00:00:00+03:00</updated><author><name>PyCon Israel Team</name></author><id>tag:pycon.org.il,2024-10-20:/2024/starkware-coding-riddle.html</id><summary type="html">&lt;p&gt;One of the conference highlights, with a prize close to $2,400.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Fun moments from Pycon 2024! Sharing one of the conference highlights:
+StarkWare’s coding riddle. The prize? 1 ETH, worth approximately
+$2,400 today.&lt;/p&gt;
+&lt;p&gt;In an impressive display of teamwork, five friends won the prize -
+teaming up, cracking the riddle with the fastest solution, getting to
+be the first team to withdraw the prize from the digital vault. What’s
+even more heartwarming? These friends decided to award the prize to
+their buddy – who was getting married the very next day.&lt;/p&gt;
+&lt;p&gt;Huge kudos to the
+&lt;a href="https://www.linkedin.com/company/starkware/"&gt;StarkWare&lt;/a&gt; team for
+bringing both innovation and creativity to the conference—what an
+amazing energy at the booth!&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pycon.org.il/2024/images/starkware-booth.jpeg" width="350" height="233"&gt;
+&lt;img src="https://pycon.org.il/2024/images/starkware-winning-team.jpeg" width="350" height="233"&gt;&lt;/p&gt;</content><category term="sponsors"></category></entry><entry><title>A message from our sponsor: Descope</title><link href="https://pycon.org.il/2024/descope-auth.html" rel="alternate"></link><published>2024-09-15T00:00:00+03:00</published><updated>2024-09-15T00:00:00+03:00</updated><author><name>PyCon Israel Team</name></author><id>tag:pycon.org.il,2024-09-15:/2024/descope-auth.html</id><summary type="html"></summary><content type="html">&lt;p&gt;A message from PyCon Israel's sponsors: Descope!&lt;/p&gt;
+&lt;p&gt;Looking to add authentication to your Python app? Descope makes it a
+matter of “drag and drop”. Use no-code workflows and Python SDK to
+simplify auth and spend more time building!&lt;/p&gt;
+&lt;p&gt;Sign up for a free account:
+&lt;a href="https://www.descope.com/sign-up"&gt;https://www.descope.com/sign-up&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check out Descope’s Python SDK:
+&lt;a href="https://github.com/descope/python-sdk"&gt;https://github.com/descope/python-sdk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Descope - Auth for Flask" src="https://pycon.org.il/2024/images/descope-auth.jpeg"&gt;&lt;/p&gt;</content><category term="sponsors"></category></entry><entry><title>A message from our sponsor: Starkware</title><link href="https://pycon.org.il/2024/starkware.html" rel="alternate"></link><published>2024-09-12T00:00:00+03:00</published><updated>2024-09-12T00:00:00+03:00</updated><author><name>PyCon Israel Team</name></author><id>tag:pycon.org.il,2024-09-12:/2024/starkware.html</id><summary type="html"></summary><content type="html">&lt;p&gt;Message from PyCon Israel's sponsors: StarkWare! &lt;/p&gt;
+&lt;p&gt;We’re thrilled to announce our sponsorship of Pycon this year! As a
+leading deep-tech company, StarkWare is building a cutting-edge
+platform designed for blockchain app developers with a mission to
+enable unparalleled scalability on the blockchain.&lt;/p&gt;
+&lt;p&gt;Drop by our booth and ask our team about our groundbreaking
+technology. We're really fun, our developers are awesome, and our
+technology is rousing! We can't wait to meet you!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Starkware" src="https://pycon.org.il/2024/images/starkware.jpeg"&gt;&lt;/p&gt;</content><category term="sponsors"></category></entry><entry><title>Meet our sponsor: Finout</title><link href="https://pycon.org.il/2024/meet-finout.html" rel="alternate"></link><published>2024-09-11T00:00:00+03:00</published><updated>2024-09-11T00:00:00+03:00</updated><author><name>PyCon Israel Team</name></author><id>tag:pycon.org.il,2024-09-11:/2024/meet-finout.html</id><summary type="html"></summary><content type="html">&lt;p&gt;&lt;a href="https://www.linkedin.com/company/finout-io"&gt;Finout&lt;/a&gt; is a rapidly
+growing FinOps platform that has recently raised a $26M Series B
+round, bringing Finout’s total raised to $45M. With global offices, we
+are trusted by industry leaders such as Wiz, AppsFlyer, The New York
+Times, Armis, Forter and more. Our mission is to provide unparalleled
+cloud cost management solutions that empower businesses to optimize
+their financial efficiency and innovate more profitably, using
+advanced allocation and governance solutions.&lt;/p&gt;
+&lt;p&gt;If you're passionate about innovation and want to make an impact, we
+want YOU on our team!&lt;/p&gt;
+&lt;p&gt;We're committed to diversity, teamwork, and innovation. Be part of a
+culture that values empathy and collaboration.&lt;/p&gt;
+&lt;p&gt;We're hiring for multiple positions in our Tel-Aviv office, including
+Fullstack Engineers, Head of DevOps, and Engineering Team Lead, among
+others.&lt;/p&gt;
+&lt;p&gt;Check out our &lt;a href="https://www.finout.io/careers#jobs"&gt;open positions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Meet Finout" src="https://pycon.org.il/2024/images/finout.jpeg"&gt;&lt;/p&gt;</content><category term="sponsors"></category></entry><entry><title>A message from our sponsor: Mobileye</title><link href="https://pycon.org.il/2024/message-mobileye.html" rel="alternate"></link><published>2024-09-09T00:00:00+03:00</published><updated>2024-09-09T00:00:00+03:00</updated><author><name>PyCon Israel Team</name></author><id>tag:pycon.org.il,2024-09-09:/2024/message-mobileye.html</id><summary type="html">&lt;p&gt;Mobileye at PyCon Israel 2024!&lt;/p&gt;</summary><content type="html">&lt;p&gt;A message from our sponsor: &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mobileye.com"&gt;Mobileye&lt;/a&gt; at PyCon Israel 2024!&lt;/p&gt;
+&lt;p&gt;Mobileye is excited to join the Python community at PyCon. As we
+continue to grow and innovate, we leverage Python across various
+domains, working with advanced algorithms, infrastructure development,
+and large-scale data for our REM group to produce real-time HD maps
+and other features crucial on the road to the autonomous future.&lt;/p&gt;
+&lt;p&gt;We’re recruiting for a range of positions that might be the perfect
+fit for you:
+- Senior Backend Python Developer
+- Senior Python Developer for Cloud Infrastructure
+- Backend Python Team Leader
+- Experienced Python Automation Developer
+And more...&lt;/p&gt;
+&lt;p&gt;Join us for your next challenge!&lt;br&gt;
+&lt;a href="https://careers.mobileye.com/jobs"&gt;https://careers.mobileye.com/jobs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://pycon.org.il/2024/images/mobileye.jpeg"&gt;&lt;/p&gt;</content><category term="sponsors"></category></entry></feed>
