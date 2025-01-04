@@ -1,11 +1,16 @@
 Website for PyCon Israel 2024
 =============================
 
-Website built with Pelican, using a PyCon-Israel-Flex theme
-based on Flex.
+Website built with Pelican, using a PyCon-Israel-Flex theme based on
+Flex. This is a static website (this is what Pelican does), but it
+relies on a Pretalx system that manages and presents the schedule,
+talks and speakers.
 
-Technicalities:
----------------
+Technicalities
+--------------
+
+Tools and building
+..................
 
 The Python side is managed by [Poetry](https://python-poetry.org/).
 Use `poetry install` to get the dependencies.
@@ -16,8 +21,22 @@ If you want to change anything in the CSS,
   and there run the command `npm install`
 - "Compilation" (mostly of the Less sources): Run the command
   `npm run build`
-  
-When you want to build the site itself, use `make html` from the
+
+When you want to build the site itself, there's two things you need to do:
+
+First, to create the speakers page, you need to run the 
+`speakers.py` script (found in the repo's root folder) from
+inside the virtualenv like this (assuming the site is generated from
+website_2024 folder):
+
+    python ./speakers.py <event-slug> -t <api-token> -o ./website_2024/content/pages/speakers.md
+
+In this command, `<event-slug>` is the slug for the event in Pretalx,
+and `<api-token>` is an authentication token you can get from your 
+Pretalx profile page. For PyCon Israel 2024, `event-slug` is `pycon-2024`,
+and your profile page is https://cfp.pycon.org.il/pycon-2024/me/ .
+
+Then, use `make html` from the
 `website_2024` folder. It puts the built site in `output`. You
 can use `make clean` to remove everything if you want to rebuild
 from scratch; but it doesn't clean the theme files.
@@ -25,6 +44,9 @@ from scratch; but it doesn't clean the theme files.
 You can also use `make devserver` for the HTML, and `npm run watch`
 for the styling -- these create watchers which update the output as
 you change the source files.
+
+Content
+.......
 
 Pages are in `website_2024/content/pages`, and are written in
 Markdown. At the top of each page there is a block of metadata. Of
@@ -52,14 +74,15 @@ Other interesting files to look at:
   development) and `publishconf.py` (for "production").
 - The sidebar is defined in
   `website_2024/themes/PyCon-Israel-Flex/templates/partial/sidebar.html`
-- The footer (currently still default, to be changed) is in 
+- The footer is in 
   `website_2024/themes/PyCon-Israel-Flex/templates/partial/footer.html`
 - All (non-partial) templates extend
   `website_2024/themes/PyCon-Israel-Flex/templates/base.html` -- that
   means that template defines structure for everything.
 
+References of software used
+...........................
 
-References of software used:
 - Pelican: You can start at
   https://docs.getpelican.com/en/latest/content.html
 - Flex, the base for the theme here:
@@ -74,3 +97,8 @@ References of software used:
     (it is based on an old version of Flex, though)
 - The Pelican plugin for image processing (not yet in use):
   https://github.com/pelican-plugins/image-process
+- The separate Pretalx system we're relying on is
+  https://github.com/Hamakor/pycon-il-dockerized-pretalx; of course,
+  it is based on https://pretalx.com/p/about/
+  (and our intention is to get rid of it -- add all our modifications
+  upstream, and have our system hosted)
